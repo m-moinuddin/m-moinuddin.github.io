@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Let's make Statistics easy"
 date: 2020-05-11
 ---
