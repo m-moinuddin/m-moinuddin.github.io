@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mohammed Moinuddin | Medical Statistician, Let's make Statistics easy"
+title: "Let's make Statistics easy"
 date: 2020-05-11
 ---
 
