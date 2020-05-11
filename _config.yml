@@ -1,2 +1,3 @@
 name: Mohammed Moinuddin | Medical Statistician
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
